@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 
 import lldtictactoe.model.Board;
+import lldtictactoe.model.Pair;
 import lldtictactoe.model.PieceType;
 import lldtictactoe.model.Player;
 import lldtictactoe.model.PlayingPieceO;
